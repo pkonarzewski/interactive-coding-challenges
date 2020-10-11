@@ -61,3 +61,6 @@ scratch/
 
 # IPython Notebook templates
 template.ipynb
+
+.env/
+.vscode/
